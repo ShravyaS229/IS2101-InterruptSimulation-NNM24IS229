@@ -5,8 +5,8 @@ import java.time.LocalTime;
 // Class representing a device that can generate interrupts
 class DeviceInterrupt implements Runnable {
     private String deviceName;
-    private AtomicBoolean masked;           // Whether this device is masked (interrupt ignored)
-    private AtomicBoolean running;          // Shared flag to stop simulation
+    private AtomicBoolean masked;    // Whether this device is masked (interrupt ignored)
+    private AtomicBoolean running;    // Shared flag to stop simulation
 
     public DeviceInterrupt(String name, AtomicBoolean running) {
         this.deviceName = name;
