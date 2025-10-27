@@ -34,7 +34,7 @@ image/output.png :Screenshot showing the program output.
 
 ## Output Screenshot
 
-![Output Screenshot](image/output.png)
+![Output Screenshot](https://github.com/ShravyaS229/IS2101-InterruptSimulation-NNM24IS229/blob/main/image/output.png?raw=true)
 
 
 
