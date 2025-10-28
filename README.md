@@ -27,13 +27,8 @@ The main program allows the user to:
 ```bash
 javac InterruptSimulation.java
 
-### Files
-InterruptSimulation.java : Main Java file containing the simulation code.
 
-image/output.png :Screenshot showing the program output.
 
-### Output Screenshot
-<img width="975" height="452" alt="image" src="https://github.com/user-attachments/assets/5352faa8-1733-4d1f-8ff4-a8141db6cd52" />
 
 
 
